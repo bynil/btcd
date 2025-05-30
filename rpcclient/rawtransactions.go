@@ -10,10 +10,10 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/btcsuite/btcd/btcjson"
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/bynil/btcd/btcjson"
+	"github.com/bynil/btcd/btcutil"
+	"github.com/bynil/btcd/chaincfg/chainhash"
+	"github.com/bynil/btcd/wire"
 )
 
 const (

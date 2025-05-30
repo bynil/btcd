@@ -10,7 +10,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/btcsuite/btcd/btcec/v2"
+	"github.com/bynil/btcd/btcec/v2"
 )
 
 const (

@@ -8,10 +8,10 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/btcsuite/btcd/btcec/v2"
-	"github.com/btcsuite/btcd/btcec/v2/schnorr"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/bynil/btcd/btcec/v2"
+	"github.com/bynil/btcd/btcec/v2/schnorr"
+	"github.com/bynil/btcd/chaincfg/chainhash"
+	"github.com/bynil/btcd/wire"
 	secp "github.com/decred/dcrd/dcrec/secp256k1/v4"
 )
 

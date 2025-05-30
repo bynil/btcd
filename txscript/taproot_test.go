@@ -12,11 +12,11 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/btcsuite/btcd/btcec/v2"
-	"github.com/btcsuite/btcd/btcec/v2/schnorr"
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/btcutil/hdkeychain"
-	"github.com/btcsuite/btcd/chaincfg"
+	"github.com/bynil/btcd/btcec/v2"
+	"github.com/bynil/btcd/btcec/v2/schnorr"
+	"github.com/bynil/btcd/btcutil"
+	"github.com/bynil/btcd/btcutil/hdkeychain"
+	"github.com/bynil/btcd/chaincfg"
 	secp "github.com/decred/dcrd/dcrec/secp256k1/v4"
 	"github.com/stretchr/testify/require"
 )

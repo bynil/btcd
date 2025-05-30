@@ -11,11 +11,11 @@ import (
 	"path/filepath"
 	"slices"
 
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/database"
-	_ "github.com/btcsuite/btcd/database/ffldb"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/bynil/btcd/btcutil"
+	"github.com/bynil/btcd/chaincfg"
+	"github.com/bynil/btcd/database"
+	_ "github.com/bynil/btcd/database/ffldb"
+	"github.com/bynil/btcd/wire"
 )
 
 var (

@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"github.com/btcsuite/btcd/btcutil/base58"
-	"github.com/btcsuite/btcd/btcutil/hdkeychain"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/bynil/btcd/btcutil/base58"
+	"github.com/bynil/btcd/btcutil/hdkeychain"
+	"github.com/bynil/btcd/chaincfg/chainhash"
 )
 
 const (

@@ -11,10 +11,10 @@ import (
 	"io"
 	"math"
 
-	"github.com/btcsuite/btcd/btcutil/gcs"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/bynil/btcd/btcutil/gcs"
+	"github.com/bynil/btcd/chaincfg/chainhash"
+	"github.com/bynil/btcd/txscript"
+	"github.com/bynil/btcd/wire"
 )
 
 const (
